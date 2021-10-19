@@ -22,7 +22,7 @@
 ## O projektu
 [![Product Name Screen Shot][product-screenshot]](https://jdos.netlify.app/)
 
-Mé osobní portfolio vytvořené v React.js a Next.js. Toto portfolio vzniklo za pomoci [JSMastery](https://www.youtube.com/watch?v=OPaLnMw2i_0&ab_channel=JavaScriptMastery) tutorialu, ale bylo upraveno k vlastní potřebě. 
+Mé osobní portfolio vytvořené v React.js a Next.js.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
